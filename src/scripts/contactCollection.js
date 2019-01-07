@@ -1,3 +1,4 @@
+// ContactCollection component loads existing contacts from storage, and saves new ones. Each new contact should have an auto-generated identifier.
 const contactCollection = {
     // retrieve contacts from the json database
     getContact() {

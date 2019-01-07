@@ -1,5 +1,10 @@
 {
-    "contacts": {
-
-    }
+    "contacts":
+    [
+        {
+            "name": "Brittany",
+            "phoneNumber": "(931) 555-5360",
+            "address": "600 Bell Road, Antioch, TN 37013"
+        }
+    ]
 }
